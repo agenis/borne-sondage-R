@@ -9,11 +9,11 @@ Les bornes de sondages ont commencé à apparaître un peu partout dans l’espa
 ## Installation
 
 La mise en oeuvre de ce prototype requiert un matériel spécifique:
-*Une pédale USB 3 voies de modèle SCYTHE TRIPLE FOOT SWITCH II, dotée de son pilote et interface HIDKEYBOARD 2.31.
-*Un ordinateur portable doté de Windows 7 Entreprise, connecté à un écran LCD.
+* Une pédale USB 3 voies de modèle SCYTHE TRIPLE FOOT SWITCH II, dotée de son pilote et interface HIDKEYBOARD 2.31.
+* Un ordinateur portable doté de Windows 7 Entreprise, connecté à un écran LCD.
 Les logiciels suivants sont également utilisés:
-*R-Studio version 0.99.903 couplé à R version 3.2.3 (2015-12-10)
-*Le freeware AutoKeyboard en version 1.3
+* R-Studio version 0.99.903 couplé à R version 3.2.3 (2015-12-10)
+* Le freeware AutoKeyboard en version 1.3
 
 ## Exécution
 
