@@ -1,0 +1,15 @@
+
+
+INITIALISER un tableau de résultats
+LIRE la valeur entrée
+	SI la valeur est vide (touche [ENTREE] appuyée sans clic bouton) 
+		ne rien faire
+	SINON 
+		ENREGISTRER le premier chiffre de la valeur entrée
+		INCREMENTER le tableau de résultat avec la valeur et l'horodatage
+		SI le tableau est suffisament grand pour plotter
+			CHOISIR le pas de temps à afficher selon la profondeur d'historique
+			PLOTTER les histogrammes de chaque bouton
+		END SI
+	END SI
+REPETER la boucle indéfiniment
